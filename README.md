@@ -55,8 +55,8 @@ It’s ideal for productivity, accessibility, and learning.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-to-audiobook.git
-cd pdf-to-audiobook
+git clone https://github.com/NoorMahammad-S/PDF_to_Audiobook_Converter.git
+cd PDF_to_Audiobook_Converter
 ```
 
 ### 2️⃣ Install Dependencies
